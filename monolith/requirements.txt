@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+elasticsearch>=8.0.0
+pandas
+python-multipart
