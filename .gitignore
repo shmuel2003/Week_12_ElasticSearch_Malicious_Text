@@ -1,0 +1,10 @@
+__pycache__/
+**/__pycache__/
+venv/
+**/venv/
+.idea/
+**/.idea/
+.env
+**/.env
+.DS_Store
+**/.DS_Store
